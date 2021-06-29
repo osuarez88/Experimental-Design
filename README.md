@@ -1,5 +1,5 @@
 # Experimental-Design
-Thinkful Academy project for experimental design
+An experimental design project where I analyze the difference in medical costs between smokers and non-smokers
 
 This project focuses on implementing a statistical test (t-test) to two groups in a single dataset and establishes a signifficant difference between the two groups.
 
